@@ -10,9 +10,9 @@ font_awesome: 'XXXXXXXXXX.js'
 
 author:
   name: 'Mark Jan Moorman'
-  # github_username:  mj-moor
+  github_username:  mj-moor
   linkedin_username:  mark-jan-moorman-7220b032
-  # medium_username: mjm_
+  medium_username: mjm_
 
 # Build settings
 destination: _site
