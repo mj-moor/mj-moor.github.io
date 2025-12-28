@@ -1,0 +1,83 @@
+# Work Experience Data
+# Used by the timeline component in index.html
+
+- company: BUUT
+  role: Senior Test Automation Engineer
+  type: Freelance
+  period: Oct 2025 - Present
+  location: Netherlands
+  logo: /images/logos/buut.png
+  desc: |
+    Test Automation Architect.
+
+- company: Royal Schiphol Group
+  role: Senior Test Automation Engineer (web/mobile)
+  type: Freelance
+  period: Apr 2024 - Sep 2025
+  location: Amsterdam
+  logo: /images/logos/schiphol.png
+  desc: |
+    Senior Test Automation engineer web and app.
+
+- company: de Volksbank
+  role: Lead Mobile Test Automation Engineer
+  type: Freelance
+  period: Oct 2022 - Mar 2024
+  location: Netherlands
+  logo: /images/logos/volksbank.png
+  desc: |
+    Test Automation Architect.
+
+- company: ABN AMRO Bank N.V.
+  role: Mobile Test Automation Engineer
+  type: Freelance
+  period: Oct 2020 - Oct 2022
+  location: Amsterdam
+  logo: /images/logos/abnamro.png
+  desc: |
+    Mobile test automation for banking applications.
+
+- company: DPG Media IT
+  role: Lead Mobile Test Automation Engineer
+  type: Freelance
+  period: Dec 2018 - Oct 2020
+  location: Amsterdam
+  logo: /images/logos/dpg.png
+  desc: |
+    Developing and maintaining Appium automation suite. Expanding native test cases using XCUITest and Espresso.
+
+- company: Rabobank
+  role: Mobile Test Automation Engineer / Scrum Master
+  type: Freelance
+  period: Jun 2016 - Dec 2018
+  location: Utrecht
+  logo: /images/logos/rabobank.png
+  desc: |
+    Testing the Rabobank hybrid banking app using Selenium, Appium and Perfecto Mobile. Scrum Master for Team Apache.
+
+- company: Testbirds
+  role: Technical Project Manager
+  type: Full-time
+  period: Feb 2016 - May 2016
+  location: Munich, Germany
+  logo: /images/logos/testbirds.png
+  desc: |
+    Project manager that oversaw multiple crowd testing projects.
+
+- company: Ahold
+  role: Test Lead Coupa
+  type: Contract
+  period: Aug 2014 - Jan 2016
+  location: Zaandam
+  logo: /images/logos/ahold.png
+  desc: |
+    Test Lead for Coupa cloud-based spend management and procurement software implementation.
+
+- company: Capgemini
+  role: Test Consultant
+  type: Full-time
+  period: Dec 2012 - Jan 2016
+  location: Utrecht
+  logo: /images/logos/capgemini.png
+  desc: |
+    Test Consultant with assignments at Canon Europe (HP UFT automation) and AkzoNobel (UAT/Regression testing for OneSAP).
